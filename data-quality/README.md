@@ -13,4 +13,4 @@ To add the data quality definitions, follow these instructions:
 
 The new project contains all prebuilt data quality definitions. For more information, see the product documentation:
 
-- Cloud Pak for Data: [Sample data quality definitions](https://www.ibm.com/docs/SSQNUZ_4.8.x/wsj/quality/dq-definition-samples.html)[SampleDataQualityDefinitions_CPD.zip](https://github.com/IBM/knowledge-catalog-samples/files/13917392/SampleDataQualityDefinitions_CPD.zip)
+- Cloud Pak for Data: [Sample data quality definitions](https://www.ibm.com/docs/SSQNUZ_4.8.x/wsj/quality/dq-definition-samples.html)
